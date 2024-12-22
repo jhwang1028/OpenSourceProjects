@@ -5,6 +5,7 @@
 본 보고서 개발 범위는 전류 변동성, 분산, 범위 분석뿐만 아니라 이상치 탐지를 수행함 
 분석 결과, 통계적 및 시계열 기반의 분석을 통해 가전제품의 전류 사용 특성을 분류할 수 있었음 
 
+전체 시퀀스 다이어그램은 아래와 같음 
 ## Sequence Diagram
 
 The following sequence diagram illustrates the communication between the components of the system:
