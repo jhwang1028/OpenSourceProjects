@@ -26,3 +26,7 @@ sequenceDiagram
     Appliances->>ACS712: Monitors current usage
     ACS712->>ESP32: Reads current data
     ESP32->>Laptop: Sends current data via WiFi
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
