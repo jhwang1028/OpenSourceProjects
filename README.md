@@ -1,8 +1,8 @@
 # 오픈소스 소프트웨어 제작
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ## 전류 센서를 활용한 가전제품의 전력 소비 분석
 
