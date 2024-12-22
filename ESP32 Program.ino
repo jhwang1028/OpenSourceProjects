@@ -2,8 +2,8 @@
 
 // Pin and Wi-Fi settings
 #define ACS_PIN 34   // Pin where ACS712 is connected
-const char* ssid = "HSH_2.4G";
-const char* password = "dbrkd3318";
+const char* ssid = "IpTimeSSID";
+const char* password = "Password";
 const char* server_ip = "192.168.0.170";  // PC server IP address
 const uint16_t server_port = 5000;  // Server port number
 
