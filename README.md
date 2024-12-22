@@ -1,6 +1,7 @@
 # 오픈소스 소프트웨어 제작
 
 ## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project for both personal and commercial purposes. See the [LICENSE](LICENSE) file for more details.
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 
