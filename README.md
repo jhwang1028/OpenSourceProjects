@@ -1,5 +1,9 @@
 # 오픈소스 소프트웨어 제작
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 ## 전류 센서를 활용한 가전제품의 전력 소비 분석
 
 -본 보고서는 ACS 712 전류 센서와 ESP 32 마이크로컨트롤러를 사용하여, 가전제품의 사용 전류 패턴을 통계 기법을 이용하여 분석함  
@@ -27,6 +31,3 @@ sequenceDiagram
     ACS712->>ESP32: Reads current data
     ESP32->>Laptop: Sends current data via WiFi
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
